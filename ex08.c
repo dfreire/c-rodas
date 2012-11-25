@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
     printf("name1: %s\n", name1);
     printf("name2: %s\n", name2);
 
-    int numbers[3][3] = {
+    int numbers[3][2] = {
         {10, 11},
         {21, 22},
         {31, 32}
