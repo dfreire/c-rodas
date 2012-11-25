@@ -15,14 +15,14 @@ int main(int argc, char *argv[])
         switch (c)
         {
             case 'a':
-                printf("Recognized an 'a'.\n");
+                printf("Recognized 'a'.\n");
                 break;
             case 'b':
-                printf("Recognized an 'b'.\n");
+                printf("Recognized 'b'.\n");
                 break;
             case 'c':
             case 'C':
-                printf("Recognized an 'c'.\n");
+                printf("Recognized 'c'.\n");
                 break;
             default:
                 printf("Not recognized.\n");
